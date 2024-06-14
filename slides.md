@@ -107,15 +107,18 @@ Interaccionemos en Github: clone un repo, abrir un PR, hacer un commit a un proy
 
 ## Escojamos un proyecto
 
-Issues for beginners:
+Repositorios para principiantes
 
-- [1](https://github.com/brave/brave-browser/issues/18931)
-- [2](https://github.com/Shahrayar123/Python-Projects)
-- [3](https://github.com/hyperium/hyper/labels/E-easy)
-- [4](https://github.com/cypress-io/cypress/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- [Python Projects](https://github.com/Shahrayar123/Python-Projects): Contribuye con alguna modificación a uno de estos proyectos basados en Python
+
+Contribuye con un proyecto genial que te gustaría resaltar
+
+- [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners?tab=readme-ov-file#python)
+- [Awesome Python](https://github.com/vinta/awesome-python)
 
 
 ---
+transition: fade-out
 layout: center
 class: text-center
 ---
@@ -144,13 +147,12 @@ Aprenderás las ventajas de Python como lenguaje de programación y te familiari
 
 ---
 
-# Proyecto Final
-# (Con LLMs y Python)
+# Proyecto Final (Con LLMs y Python)
 
-- **Idea de Proyecto**: Construyamos una aplicación práctica con Python, Ollama, Llama-3 8B y LangChain 
-- **Ejemplos**: ChatBot, script para generar contenido creativo, programa de análisis de datos
+- **Idea de Proyecto**: Construyamos una aplicación práctica con Python, [Ollama](https://github.com/ollama/ollama), [Phi-3 mini](https://ollama.com/library/phi3) y  [LangChain](https://python.langchain.com/v0.2/)
+- **Ejemplos**: Crea un ChatBot, script para generar contenido creativo, programa de análisis de datos
 
-¡Pon en práctica tus conocimientos construyendo un proyecto innovador que combine Python y una LLM (como Phi-3 mini) para desarrollar una aplicación práctica.
+¡Pon en práctica tus conocimientos construyendo un proyecto innovador que combine Python y un LLM (como Phi-3 mini) para desarrollar una aplicación práctica.
 
 ---
 layout: center
@@ -159,4 +161,4 @@ class: text-center
 
 # Learn More
 
-[Documentations]() · [GitHub]() · [Showcases]()
+· [GitHub]() ·
